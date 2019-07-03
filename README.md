@@ -1,5 +1,7 @@
 # Weather App (Dev Ed)
 
+git test
+
 ## API
 
 www.darksky.net 사용
