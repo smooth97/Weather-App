@@ -1,6 +1,6 @@
 # Weather App (Dev Ed)
 
-git test
+[Dev Ed](https://www.youtube.com/watch?v=wPElVpR1rwA&t=860s)강좌로 공부
 
 ## API
 
