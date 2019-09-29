@@ -5,7 +5,7 @@
 ## API
 
 www.darksky.net 사용
-
+```
 navigator.geolocation.getCurrentPosition(success[, error[, [options]]);
 
 fetch() =>
@@ -20,7 +20,7 @@ json() = JavaScript Object Notation (JSON)은 Javascript 객체 문법으로
 Proxy = 대신 이라는 의미로 프로토콜에 있어서 대리 응답 등에서 사용하는 개념.
         보안상의 문제로 직접 통신을 주고 받을 수 없는 사이에서 프록시를 이용해 중계를 하는 개념
         => 프록시 서버 (cors-anywhere.herokuapp.com 사용)
-
+```
 ## Properties
 
 Node.textContent 프로퍼티는 노드와 그 자손의 텍스트 내용을 표시한다.
